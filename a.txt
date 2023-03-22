@@ -10,5 +10,5 @@ git!!
 git!!
 git!!
 branch
-branch------gogogo   master
+branch------gogogo   masterand master new
 branch
